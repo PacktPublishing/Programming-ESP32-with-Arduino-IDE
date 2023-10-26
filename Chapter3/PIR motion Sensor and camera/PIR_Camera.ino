@@ -2,7 +2,6 @@
 
 #include <SD_MMC.h> 
 
-#include "HC_SR501.h" 
 
 #define CAMERA_MODEL_AI_THINKER 
 
@@ -42,7 +41,6 @@
 
 #define MOTION_SENSOR_PIN 2 
 
-HC_SR501 motionSensor(MOTION_SENSOR_PIN); 
 
 
 void setup() { 
@@ -117,16 +115,16 @@ void setup() {
 
   Serial.println("Camera initialized"); 
 
-  // Initialize motion sensor 
 
-  motionSensor.begin(); 
+   // Configure motion sensor pin as input
+  pinMode(MOTION_SENSOR_PIN, INPUT);
 
 } 
 
  
 void loop() { 
 
-  if (motionSensor.motionDetected()) { 
+  if (digitalRead(MOTION_SENSOR_PIN) == HIGH) {
 
     // Motion detected, capture image 
 
