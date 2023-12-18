@@ -45,3 +45,8 @@ With the following software and hardware list you can run all code files present
 ## Get to Know the Author
 **Asim Zulfiqar**
 is a blogger and tech content creator who has been writing tutorials on embedded systems and IoT on his blog and YouTube channel, High Voltages. Currently, he is working as a scientific programmer for IoT research projects. He completed his bachelor's degree in electronic engineering at Sir Syed University of Engineering and Technology, Pakistan. After that, he completed his Erasmus Mundus joint master's degree program in Photonics Integrated Circuits, Sensors, and Networks at Scuola Superiore Sant'Anna (Italy), Aston University (U.K), and Osaka University (Japan).
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781837638031">https://packt.link/free-ebook/9781837638031 </a> </p>
