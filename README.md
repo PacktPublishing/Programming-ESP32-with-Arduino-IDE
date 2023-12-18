@@ -31,16 +31,16 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1-9 | An ESP32 development board | Windows, Mac OS X, and Linux (Any) |
-| 1-9 | An ESP32-CAM board | Windows, Mac OS X, and Linux (Any) |
-| 1-9 | Display modules | Windows, Mac OS X, and Linux (Any) |
-| 1-9 | Sensors and actuators | Windows, Mac OS X, and Linux (Any) |
-| 1-9 | Free API services (OpenWeatherMap, Twitter,  | Windows, Mac OS X, and Linux (Any) |
-| 1-9 | InfluxDB Cloud and Grafana Cloud | Windows, Mac OS X, and Linux (Any) |
+| 1-9 | An ESP32-CAM board |  |
+| 1-9 | Display modules |  |
+| 1-9 | Sensors and actuators |  |
+| 1-9 | Free API services (OpenWeatherMap, Twitter,  |  |
+| 1-9 | InfluxDB Cloud and Grafana Cloud |  |
 
 ### Related products
-* Programming microcontrollers [[Packt]](https://www.packtpub.com/product/practical-arduino-robotics/9781804613177?utm_source=github&utm_medium=repository&utm_campaign=9781804613177) [[Amazon]](https://www.amazon.com/dp/1804613177)
+* Practical Arduino Robotics [[Packt]](https://www.packtpub.com/product/practical-arduino-robotics/9781804613177?utm_source=github&utm_medium=repository&utm_campaign=9781804613177) [[Amazon]](https://www.amazon.com/dp/1804613177)
 
-* Digital pins [[Packt]](https://www.packtpub.com/product/arduino-data-communications/9781837632619?utm_source=github&utm_medium=repository&utm_campaign=9781837632619) [[Amazon]](https://www.amazon.com/dp/1837632618)
+* Arduino Data Communications [[Packt]](https://www.packtpub.com/product/arduino-data-communications/9781837632619?utm_source=github&utm_medium=repository&utm_campaign=9781837632619) [[Amazon]](https://www.amazon.com/dp/1837632618)
 
 ## Get to Know the Author
 **Asim Zulfiqar**
