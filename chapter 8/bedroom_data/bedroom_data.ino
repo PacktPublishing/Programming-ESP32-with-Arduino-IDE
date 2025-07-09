@@ -14,7 +14,7 @@ const char* WIFI_PASSWORD = "Password"; //PASSWORD
 
 // InfluxDB configuration
 const char* INFLUXDB_URL = "ClusterURL"; // cluster URL
-const char* INFLUXDB_TOKEN = "API Token” //api token
+const char* INFLUXDB_TOKEN = "API Token";
 const char* INFLUXDB_ORG = "org ID"; //organization ID
 const char* INFLUXDB_BUCKET = "Home data"; //bucket name
 
